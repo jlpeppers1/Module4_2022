@@ -5,7 +5,7 @@
     #within the function; ask for user input 3 times
     #get a string (name), get an int (hours worked), get a float (pay)
     #print a string including that information
-    #maybe print output looks something like 'Joe worked 40 hours at a rate of $5.00 and made $200.00'
+    #maybe print output looks something like 'Joe worked 40 hours at a rate of $5.00'
 
 #driver code
 if __name__ == "__main__":
